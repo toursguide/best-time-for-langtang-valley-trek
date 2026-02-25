@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://best-time-for-langtang-valley-trek.vercel.app/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
